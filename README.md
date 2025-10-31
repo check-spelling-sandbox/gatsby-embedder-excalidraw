@@ -107,7 +107,7 @@ module.exports = {
 
 ### Create a drawing
 
-Head over to [Excalidraw](https://excalidraw.com) and draw something! Once you're satisfied, you can find a shareable link to your drawing in the export dialog, accesible from the icon in the top left corner of the page.
+Head over to [Excalidraw](https://excalidraw.com) and draw something! Once you're satisfied, you can find a shareable link to your drawing in the export dialog, accessible from the icon in the top left corner of the page.
 
 ![link](link.gif)
 
