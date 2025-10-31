@@ -109,7 +109,7 @@ module.exports = {
 
 Head over to [Excalidraw](https://excalidraw.com) and draw something! Once you're satisfied, you can find a shareable link to your drawing in the export dialog, accessible from the icon in the top left corner of the page.
 
-![link](link.gif)
+![animation showing the export dialog and the copy link button](link.gif)
 
 ### Embed your drawing
 
